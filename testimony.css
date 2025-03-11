@@ -1,0 +1,19 @@
+/* body{
+
+} */
+h1{
+    text-align: center;
+    color: rgb(95, 156, 2);
+    font-family: 'Arial';
+    /* font-size: 13px; */
+}
+p{
+    font-family: 'Arial';
+font-size: 15px;
+position: relative;
+left: 300px;
+top: -150px;
+/* right: -200px; */
+width: 400px;
+
+}
