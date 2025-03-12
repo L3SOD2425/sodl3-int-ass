@@ -1,0 +1,34 @@
+#hu{
+  padding: 280px;
+  background-image: url(vst.jpg);
+  box-shadow: 1px 1px 30px black;
+  opacity: 95%;
+}
+.kass{
+  font-size: 70PX;
+  color: rgb(240, 248, 255);
+  padding-bottom: -30%;
+  text-align: center;
+  text-size-adjust: 89px;
+
+}
+.hh{
+  color: rgb(223, 228, 231);
+  text-align: center;
+  font-size: X-large;
+  margin-top: -45px;
+}
+#mama{
+  text-decoration: solid wheat;
+  font-size: xx-large;
+text-align: center;
+margin-right: 56px;
+
+
+}
+
+
+button{
+  width: 100px;
+  height: 38px;
+}
